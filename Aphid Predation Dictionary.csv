@@ -1,0 +1,16 @@
+﻿variable,definition
+test_ID,Replication number
+case,"clear_clear = no predation on leaves
+clear_pred = right leaf predated
+pred_pred = both leaves predated"
+num_intr,Number of aphids introduced into petri dish
+leaf_num,"The position of the leaf in the dish, 1 = left, 2 = right"
+leaf_type,"Type of leaf, Clear = no predation, Pred = predation"
+minutes,Number of minutes after aphid introduction that settled aphids on each leaf were counted
+aphid_count,number of aphids on a leaf
+,
+,
+,
+,
+,
+,
